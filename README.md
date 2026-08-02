@@ -5,7 +5,7 @@ Predicts how much mileage a petrol car in India loses when using E20 (20% ethano
 **Model performance:** R² = 0.9986, MAE = 0.028 (Random Forest Regressor)
 
 ## Live App
-[Add your Streamlit Cloud link here after deployment]
+https://e20predictor.streamlit.app/
 
 ## Project Structure
 ```
