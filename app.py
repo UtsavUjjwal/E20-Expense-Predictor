@@ -103,7 +103,7 @@ def estimate_monthly_cost(mileage_tested, monthly_km, price_per_litre, engine_cc
 # ---------- UI ----------
 st.set_page_config(page_title="E20 Mileage Drop & Fuel Cost Estimator", page_icon="⛽", layout="centered")
 
-st.title("⛽ E20 Mileage Drop & Fuel Cost Estimator")
+st.title(" E20 Mileage Drop & Fuel Cost Estimator")
 st.caption("Estimate how much mileage your petrol car loses on E20 (ethanol-blended) fuel, and what it costs you monthly.")
 
 mode = st.radio("How do you want to enter your car details?",
