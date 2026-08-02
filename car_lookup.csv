@@ -1,0 +1,222 @@
+Brand,Model,Variant,Engine (CC),Mileage Tested (km/L),Launch Year,E20 Compatible
+Citroen,Aircross X (C3 Aircross),1.2L Petrol (NA),1198.0,16.4,2024,Yes
+Citroen,Aircross X (C3 Aircross),1.2L Turbo Petrol,1199.0,16.6,2024,Yes
+Citroen,Basalt X,1.2L Turbo Petrol,1199.0,16.6,2024,Yes
+Citroen,C3,1.2L Petrol (NA),1198.0,16.4,2022,Yes
+Citroen,C3,1.2L Turbo Petrol,1199.0,16.6,2023,Yes
+Honda,Amaze,1.2L i-VTEC Petrol,1199.0,16.5,2018,Yes
+Honda,City,1.5L i-VTEC Petrol,1498.0,15.6,2020,Yes
+Honda,City (3rd Gen),Petrol 1.5L i-VTEC,1497.0,11.0,2008,No
+Honda,City (4th Gen),Petrol 1.5L i-VTEC,1497.0,12.0,2014,No
+Honda,City (5th Gen),Petrol 1.5L DOHC i-VTEC,1498.0,12.0,2020,No
+Honda,"City (5th Gen, facelift)",Petrol 1.5L DOHC i-VTEC,1498.0,13.0,2023,Yes
+Honda,City e:HEV (Hybrid),1.5L Atkinson-cycle Hybrid,1498.0,22.5,2022,Yes
+Honda,City e:HEV Hybrid (5th Gen),Petrol 1.5L Atkinson Hybrid,1498.0,20.0,2022,No
+Honda,Elevate,1.5L i-VTEC Petrol,1498.0,14.4,2023,Yes
+Hyundai,Alcazar,1.5L MPi Petrol,1497.0,12.6,2021,Yes
+Hyundai,Aura,1.2L Kappa CNG,1197.0,,2020,N/A (CNG)
+Hyundai,Aura,1.2L Kappa Petrol,1197.0,17.4,2020,Yes
+Hyundai,Creta,1.4L Turbo GDi (Smartstream),1353.0,14.4,2024,Yes
+Hyundai,Creta,1.5L MPi Petrol,1497.0,14.8,2024,Yes
+Hyundai,Creta (1st Gen),Petrol 1.6L Gamma,1591.0,11.0,2015,No
+Hyundai,Creta (2nd Gen),Petrol 1.4L Turbo GDi,1353.0,11.0,2020,No
+Hyundai,Creta (2nd Gen),Petrol 1.5L MPi,1497.0,11.0,2020,No
+Hyundai,Creta N Line/facelift (2nd Gen),Petrol 1.5L Turbo GDi,1482.0,13.0,2024,Yes
+Hyundai,Elite i20 (2nd Gen),Petrol 1.2L Kappa Dual VTVT,1197.0,13.0,2014,No
+Hyundai,Exter,1.2L Kappa CNG,1197.0,,2023,Yes
+Hyundai,Exter,1.2L Kappa Petrol,1197.0,16.5,2023,Yes
+Hyundai,Grand i10 (2nd Gen),Petrol 1.2L Kappa2,1197.0,14.0,2013,No
+Hyundai,Grand i10 Nios,1.2L Kappa CNG,1197.0,,2019,N/A (CNG)
+Hyundai,Grand i10 Nios,1.2L Kappa Petrol,1197.0,17.3,2019,Yes
+Hyundai,Grand i10 Nios (3rd Gen),Petrol 1.0L T-GDi Turbo,998.0,14.0,2019,No
+Hyundai,Grand i10 Nios (3rd Gen),Petrol 1.2L Kappa,1197.0,15.0,2019,No
+Hyundai,Hyundai Creta,1.5L CRDi,1493.0,18.5,2020,No
+Hyundai,Hyundai Creta,1.5L MPi,1497.0,14.5,2020,No
+Hyundai,Hyundai Creta,1.5L Turbo,1482.0,15.5,2024,Yes
+Hyundai,Hyundai Exter,1.2L Kappa,1197.0,17.5,2023,Yes
+Hyundai,Hyundai Venue,1.0L Turbo,998.0,15.2,2019,No
+Hyundai,Hyundai Venue,1.2L Kappa,1197.0,17.5,2019,No
+Hyundai,Hyundai Venue,1.5L CRDi,1493.0,18.5,2020,No
+Hyundai,Hyundai i20,1.2L Kappa,1197.0,17.5,2008,No
+Hyundai,Tucson,2.0L MPi Petrol,1999.0,12.2,2022,Yes
+Hyundai,Venue,1.0L Turbo GDi,998.0,15.5,2019,Yes
+Hyundai,Venue,1.2L Kappa Petrol,1197.0,16.0,2019,Yes
+Hyundai,Venue N-Line,1.0L Turbo GDi,998.0,15.3,2023,Yes
+Hyundai,Verna,1.0L Turbo GDi,998.0,17.5,2023,Yes
+Hyundai,Verna,1.5L MPi Petrol,1497.0,15.9,2023,Yes
+Hyundai,i10 (1st Gen),Petrol 1.1L iRDE,1086.0,12.0,2010,No
+Hyundai,"i10 (1st Gen, facelift)",Petrol 1.2L Kappa2 VTVT,1197.0,13.0,2010,No
+Hyundai,i20,1.0L Turbo GDi,998.0,16.7,2020,Yes
+Hyundai,i20,1.2L Kappa Petrol,1197.0,17.3,2020,Yes
+Hyundai,i20 (1st Gen),Petrol 1.2L Kappa,1197.0,12.0,2008,No
+Hyundai,i20 (3rd Gen),Petrol 1.0L Turbo GDi,998.0,14.0,2020,No
+Hyundai,i20 (3rd Gen),Petrol 1.2L Kappa,1197.0,15.0,2020,No
+Hyundai,i20 N Line (3rd Gen),Petrol 1.0L Turbo GDi,998.0,14.0,2021,No
+Hyundai,i20 N-Line,1.0L Turbo GDi,998.0,15.7,2021,Yes
+Kia,Carens,1.5L Petrol,1497.0,13.8,2022,Yes
+Kia,Carens Clavis,1.4L Turbo GDi,1353.0,16.1,2025,Yes
+Kia,Carens Clavis,1.5L Petrol,1497.0,14.4,2025,Yes
+Kia,Kia Seltos,1.5L CRDi,1493.0,18.5,2019,No
+Kia,Kia Seltos,1.5L Smartstream,1497.0,14.5,2019,No
+Kia,Kia Seltos,1.5L Turbo,1482.0,15.5,2023,Yes
+Kia,Kia Sonet,1.0L T-GDi,998.0,15.2,2020,No
+Kia,Kia Sonet,1.2L Smartstream,1197.0,16.5,2020,No
+Kia,Kia Sonet,1.5L CRDi,1493.0,18.5,2020,No
+Kia,Seltos,1.4L Turbo GDi,1353.0,15.9,2023,Yes
+Kia,Seltos,1.5L Petrol,1497.0,14.3,2019,Yes
+Kia,Sonet,1.0L Turbo GDi,998.0,15.5,2020,Yes
+Kia,Sonet,1.2L Petrol,1197.0,15.6,2020,Yes
+Lexus,LM 350h,2.5L Strong Hybrid,2487.0,14.0,2024,Yes
+MG Motor,Astor,1.3L Turbo Petrol,1349.0,11.5,2021,Yes
+MG Motor,Astor,1.5L Petrol (NA),1349.0,12.5,2021,Yes
+MG Motor,Gloster,Diesel-only lineup - no petrol/E20 variant,,,2020,N/A (Diesel)
+MG Motor,Hector,1.5L Turbo Petrol,1451.0,11.7,2019,Yes
+MG Motor,Hector Plus,1.5L Turbo Petrol,1451.0,11.6,2020,Yes
+MG Motor,Majestor,Diesel-only lineup - no petrol/E20 variant,,,2023,N/A (Diesel)
+Mahindra,Mahindra Scorpio,2.0L mStallion,1997.0,11.5,2022,No
+Mahindra,Mahindra Scorpio,2.2L mHawk,2184.0,14.5,2022,No
+Mahindra,Mahindra Thar,1.5L D117,1497.0,14.0,2023,No
+Mahindra,Mahindra Thar,2.0L mStallion,1997.0,11.5,2020,No
+Mahindra,Mahindra Thar,2.2L mHawk,2184.0,14.5,2020,No
+Mahindra,Mahindra XUV 3XO,1.2L mStallion,1197.0,16.8,2024,Yes
+Mahindra,Mahindra XUV 3XO,1.5L CRDe,1497.0,16.8,2024,No
+Mahindra,Mahindra XUV700,2.0L mStallion,1997.0,11.5,2021,No
+Mahindra,Mahindra XUV700,2.2L mHawk,2184.0,14.5,2021,No
+Mahindra,Scorpio-N,2.0L Turbo Petrol (mStallion),1997.0,12.4,2022,Yes
+Mahindra,Thar,2.0L Turbo Petrol (mStallion),1997.0,11.6,2020,Yes
+Mahindra,Thar Roxx,2.0L Turbo Petrol (mStallion),1997.0,12.7,2024,Yes
+Mahindra,XUV 3XO,1.2L Turbo Petrol,1197.0,16.1,2024,Yes
+Mahindra,XUV 3XO,1.5L Turbo Petrol (mStallion),1497.0,13.8,2024,Yes
+Mahindra,XUV 700,2.0L Turbo Petrol (mStallion),1997.0,11.2,2021,Yes
+Mahindra,XUV 7XO,2.0L Turbo Petrol (mStallion),1997.0,11.5,2025,Yes
+Maruti,Alto K10,1.0L Petrol (K10C),998.0,21.2,2022,Yes
+Maruti,Alto K10 (1st Gen),Petrol 1.0L K10B,998.0,15.0,2010,No
+Maruti,Alto K10 (2nd Gen),Petrol 1.0L K10B,998.0,18.0,2014,No
+Maruti,Alto K10 (3rd Gen),Petrol 1.0L K10C Dualjet,998.0,18.0,2022,No
+Maruti,Baleno,1.2L Petrol (K12N),1197.0,19.5,2022,Yes
+Maruti,Baleno (1st Gen),Petrol 1.2L K-Series,1197.0,16.0,2015,No
+Maruti,"Baleno (1st Gen, facelift)",Petrol 1.2L Dualjet Smart Hybrid,1197.0,17.0,2019,No
+Maruti,Baleno (2nd Gen/facelift),Petrol 1.2L K12N Dualjet,1197.0,17.0,2022,No
+Maruti,Baleno RS (1st Gen),Petrol 1.0L Boosterjet Turbo,998.0,15.0,2017,No
+Maruti,Brezza,1.5L Petrol (K15C),1462.0,16.8,2022,Yes
+Maruti,Celerio,1.0L Petrol (K10C),998.0,21.5,2021,Yes
+Maruti,Dzire,1.2L Petrol (Z12E),1197.0,21.1,2024,Yes
+Maruti,Dzire (1st Gen),Petrol 1.2L K-Series (BS-IV),1197.0,13.0,2010,No
+Maruti,Dzire (2nd Gen),Petrol 1.2L K-Series,1197.0,15.0,2011,No
+Maruti,Dzire (3rd Gen),Petrol 1.2L K12M,1197.0,16.0,2017,No
+Maruti,"Dzire (3rd Gen, facelift)",Petrol 1.2L K12N Dualjet (Hybrid),1197.0,18.0,2020,No
+Maruti,Dzire (4th Gen),Petrol 1.2L Z12E (I3),1197.0,18.0,2024,Yes
+Maruti,Eeco,1.2L Petrol (G12B),1196.0,13.7,2010,Yes
+Maruti,Ertiga,1.5L Petrol (K15C),1462.0,16.4,2022,Yes
+Maruti,Fronx,1.0L Turbo Boosterjet (K10C),998.0,17.0,2023,Yes
+Maruti,Fronx,1.2L Petrol (K12N),1197.0,18.3,2023,Yes
+Maruti,Grand Vitara,1.5L Petrol (K15C),1462.0,17.0,2022,Yes
+Maruti,Grand Vitara,"1.5L Strong Hybrid (M15A, Toyota-sourced)",1490.0,23.8,2022,Yes
+Maruti,Ignis,1.2L Petrol (K12N),1197.0,17.8,2017,Yes
+Maruti,Invicto,"2.0L Strong Hybrid (M20A, Toyota-sourced)",1987.0,19.8,2023,Yes
+Maruti,Jimny,1.5L Petrol (K15B),1462.0,13.9,2023,Yes
+Maruti,Maruti Suzuki Alto K10,1.0L K-Series,998.0,20.5,2010,No
+Maruti,Maruti Suzuki Baleno,1.2L K-Series,1197.0,19.0,2015,No
+Maruti,Maruti Suzuki Brezza,1.5L K-Series,1462.0,17.5,2020,No
+Maruti,Maruti Suzuki Celerio,1.0L K-Series,998.0,20.5,2014,No
+Maruti,Maruti Suzuki Dzire,1.2L K-Series,1197.0,19.0,2010,No
+Maruti,Maruti Suzuki Eeco,1.2L K-Series,1197.0,19.0,2022,No
+Maruti,Maruti Suzuki Ertiga,1.5L K-Series,1462.0,17.5,2018,No
+Maruti,Maruti Suzuki Fronx,1.0L Boosterjet,998.0,18.5,2023,Yes
+Maruti,Maruti Suzuki Fronx,1.2L K-Series,1197.0,19.0,2023,Yes
+Maruti,Maruti Suzuki Grand Vitara,1.5L K-Series,1462.0,17.5,2022,No
+Maruti,Maruti Suzuki Grand Vitara,1.5L Strong Hybrid,1490.0,24.0,2022,No
+Maruti,Maruti Suzuki Swift,1.2L Z-Series,1197.0,21.5,2024,Yes
+Maruti,Maruti Suzuki WagonR,1.0L K-Series,998.0,20.5,2010,No
+Maruti,Maruti Suzuki WagonR,1.2L K-Series,1197.0,19.0,2019,No
+Maruti,S-Presso,1.0L Petrol (K10C),998.0,20.5,2019,Yes
+Maruti,Swift,1.2L Petrol (Z12E),1197.0,21.9,2024,Yes
+Maruti,"Swift (1st Gen, BS-IV update)",Petrol 1.2L K12M,1197.0,12.0,2010,No
+Maruti,Swift (2nd Gen),Petrol 1.2L K-Series,1197.0,13.0,2011,No
+Maruti,Swift (3rd Gen),Petrol 1.2L K12M,1197.0,16.0,2018,No
+Maruti,"Swift (3rd Gen, facelift)",Petrol 1.2L K12N Dualjet,1197.0,17.0,2021,No
+Maruti,Swift (4th Gen),Petrol 1.2L Z12E (I3),1197.0,18.0,2024,Yes
+Maruti,Victoris,1.5L Petrol (K15C),1462.0,17.0,2025,Yes
+Maruti,Victoris,"1.5L Strong Hybrid (M15A, Toyota-sourced)",1490.0,23.0,2025,Yes
+Maruti,WagonR,1.0L Petrol (K10C),998.0,20.7,2019,Yes
+Maruti,WagonR,1.2L Petrol (K12N),1197.0,17.4,2019,Yes
+Maruti,WagonR (2nd Gen),Petrol 1.0L K10B,998.0,14.0,2010,No
+Maruti,WagonR (2nd Gen),Petrol 1.1L K-Series,1061.0,13.0,2010,No
+Maruti,WagonR (3rd Gen),Petrol 1.0L K10B,998.0,15.0,2019,No
+Maruti,WagonR (3rd Gen),Petrol 1.2L K12M,1197.0,16.0,2019,No
+Maruti,"WagonR (3rd Gen, facelift)",Petrol 1.0L K10C Dualjet,998.0,18.0,2022,No
+Maruti,"WagonR (3rd Gen, facelift)",Petrol 1.2L K12N Dualjet,1197.0,18.0,2022,No
+Maruti,XL6,1.5L Petrol (K15C),1462.0,16.2,2022,Yes
+Nissan,Gravite,1.0L Turbo Petrol,999.0,16.6,2025,Yes
+Nissan,Magnite,1.0L Petrol (NA),999.0,16.8,2020,Yes
+Nissan,Magnite,1.0L Turbo Petrol,999.0,16.5,2020,Yes
+Nissan,Nissan Magnite,1.0L B4D,999.0,17.0,2020,No
+Nissan,Nissan Magnite,1.0L HRA0 Turbo,999.0,17.5,2020,No
+Nissan,Tekton,Petrol powertrain (TBA at launch),,,2026,TBA (Upcoming)
+Renault,Duster,1.3L Turbo Petrol,1330.0,15.7,2026,Yes
+Renault,Kiger,1.0L Petrol (NA),999.0,16.1,2021,Yes
+Renault,Kiger,1.0L Turbo Petrol,999.0,17.5,2021,Yes
+Renault,Renault Kiger,1.0L Energy,999.0,17.0,2021,No
+Renault,Renault Kiger,1.0L Turbo,999.0,15.2,2021,No
+Renault,Renault Kwid,1.0L SCe,999.0,16.5,2016,No
+Renault,Triber,1.0L Petrol (NA),999.0,15.9,2019,Yes
+Skoda,Kodiaq,2.0L TSI Turbo,1984.0,10.8,2024,Yes
+Skoda,Kushaq,1.0L TSI Turbo,999.0,15.7,2021,Yes
+Skoda,Kushaq,1.5L TSI Turbo,1498.0,15.0,2021,Yes
+Skoda,Kylaq,1.0L TSI Turbo,999.0,16.9,2025,Yes
+Skoda,Octavia VRS,2.0L TSI Turbo,1984.0,11.6,2022,Discontinued
+Skoda,Slavia,1.0L TSI Turbo,999.0,16.2,2022,Yes
+Skoda,Slavia,1.5L TSI Turbo,1498.0,15.0,2022,Yes
+Tata,Altroz,1.2L Revotron Petrol,1199.0,16.2,2020,Yes
+Tata,Altroz,1.2L Revotron iCNG,1199.0,,2023,N/A (CNG)
+Tata,Curvv,1.2L Turbo Petrol,1199.0,15.4,2024,Yes
+Tata,Harrier (Petrol),2.0L Turbo Petrol,1997.0,12.4,2025,Yes
+Tata,Nexon,1.2L Revotron Turbo Petrol,1199.0,14.8,2017,Yes
+Tata,Nexon,1.2L Turbo iCNG,1199.0,,2023,N/A (CNG)
+Tata,Nexon (1st Gen),Petrol 1.2L Revotron Turbo,1199.0,12.0,2017,No
+Tata,Nexon (2nd facelift),Petrol 1.2L Revotron Turbo,1199.0,13.0,2023,Yes
+Tata,Nexon (facelift),Petrol 1.2L Revotron Turbo,1199.0,13.0,2020,No
+Tata,Punch,1.2L Revotron Petrol,1199.0,17.1,2021,Yes
+Tata,Punch,1.2L Revotron iCNG,1199.0,,2022,N/A (CNG)
+Tata,Safari (Petrol),2.0L Turbo Petrol,1997.0,12.2,2025,Yes
+Tata,Sierra,Petrol powertrain (TBA at launch),,,2026,TBA (Upcoming)
+Tata,Tata Altroz,1.2L Revotron,1199.0,16.2,2020,No
+Tata,Tata Altroz,1.5L Revotorq,1497.0,20.5,2020,No
+Tata,Tata Harrier,2.0L Kryotec,1956.0,13.5,2019,No
+Tata,Tata Nexon,1.2L Revotron,1199.0,16.2,2017,No
+Tata,Tata Nexon,1.5L Revotorq,1497.0,20.5,2017,No
+Tata,Tata Punch,1.2L Revotron,1199.0,16.2,2021,No
+Tata,Tata Tiago,1.2L Revotron,1199.0,16.2,2016,No
+Tata,Tiago,1.2L Revotron Petrol,1199.0,17.1,2016,Yes
+Tata,Tiago,1.2L Revotron iCNG,1199.0,,2021,N/A (CNG)
+Tata,Tigor,1.2L Revotron Petrol,1199.0,17.1,2017,Yes
+Tata,Tigor,1.2L Revotron iCNG,1199.0,,2021,N/A (CNG)
+Toyota,Camry,2.5L Strong Hybrid,2487.0,19.8,2019,Yes
+Toyota,Fortuner (1st Gen),Diesel 3.0L 1KD-FTV Turbo (4x4),2982.0,9.0,2009,N/A (Diesel)
+Toyota,Fortuner (1st Gen),Petrol 2.7L 2TR-FE (4x2),2694.0,6.0,2009,No
+Toyota,Fortuner (1st Gen),Petrol 4.0L V6 1GR-FE (4x2),3956.0,5.0,2009,No
+Toyota,"Fortuner (1st Gen, facelift)",Diesel 3.0L 1KD-FTV (4x2),2982.0,9.0,2012,N/A (Diesel)
+Toyota,"Fortuner (2nd Gen, TNGA)",Diesel 2.8L 1GD-FTV Turbo,2755.0,11.0,2016,N/A (Diesel)
+Toyota,"Fortuner (2nd Gen, TNGA)",Petrol 2.7L 2TR-FE,2694.0,7.0,2016,No
+Toyota,"Fortuner (2nd Gen, facelift + Legender)",Diesel 2.8L 1GD-FTV Turbo,2755.0,11.0,2021,N/A (Diesel)
+Toyota,"Fortuner (2nd Gen, facelift + Legender)",Petrol 2.7L 2TR-FE,2694.0,7.0,2021,Yes
+Toyota,Fortuner (Petrol),2.7L Petrol,2694.0,7.1,2021,Yes
+Toyota,"Fortuner Neo Drive (2nd Gen, latest update)",Diesel 2.8L 1GD-FTV Mild-Hybrid 48V,2755.0,11.0,2025,N/A (Diesel)
+Toyota,Glanza,1.2L Petrol,1197.0,19.0,2019,Yes
+Toyota,Hilux,2.7L Petrol,2694.0,,2022,Yes
+Toyota,Innova Crysta (Petrol),2.0L Petrol,1998.0,9.6,2016,Yes
+Toyota,Innova Hycross,2.0L Petrol,1998.0,8.4,2023,Yes
+Toyota,Innova Hycross,2.0L Strong Hybrid,1987.0,19.8,2023,Yes
+Toyota,Toyota Innova Hycross,2.0L TNGA,1987.0,20.5,2022,Yes
+Toyota,Urban Cruiser Hyryder,1.5L Petrol,1462.0,17.1,2022,Yes
+Toyota,Urban Cruiser Hyryder,1.5L Strong Hybrid,1490.0,23.8,2022,Yes
+Toyota,Urban Cruiser Taisor,1.0L Turbo Petrol,998.0,17.0,2024,Yes
+Toyota,Urban Cruiser Taisor,1.2L Petrol,1197.0,18.3,2024,Yes
+Toyota,Vellfire,2.5L Strong Hybrid,2494.0,13.6,2023,Yes
+Volkswagen,Golf GTi,2.0L TSI Turbo,1984.0,9.3,2022,Yes
+Volkswagen,Taigun,1.0L TSI Turbo,999.0,15.9,2021,Yes
+Volkswagen,Taigun,1.5L TSI Turbo,1498.0,15.2,2021,Yes
+Volkswagen,Tayron,2.0L TSI Turbo,1984.0,11.0,2025,Yes
+Volkswagen,Tiguan R Line,2.0L TSI Turbo,1984.0,10.6,2024,Yes
+Volkswagen,Virtus,1.0L TSI Turbo,999.0,16.5,2022,Yes
+Volkswagen,Virtus,1.5L TSI Turbo,1498.0,15.8,2022,Yes
