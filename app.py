@@ -1,4 +1,10 @@
+"""
+E20 Mileage Drop & Fuel Cost Predictor
+Public-facing Streamlit app.
 
+Run locally with:  streamlit run app.py
+Model files (e20_drop_model.pkl, model_columns.pkl) must be in the same folder.
+"""
 
 import streamlit as st
 import pandas as pd
@@ -57,6 +63,14 @@ def predict_e20_drop(engine_cc, launch_year, e20_compatible, brand=None):
         "predicted_drop_pct": round(pred, 2),
         "warnings": warnings
     }
+
+
+def apply_age_wear_adjustment(base_mileage, car_age_years, decay_rate_per_year=0.008, max_decay=0.30):
+    """Degrades claimed/known mileage based on car age (general wear, separate from E20 effect)."""
+    if car_age_years < 0:
+        car_age_years = 0
+    decay = min(car_age_years * decay_rate_per_year, max_decay)
+    return base_mileage * (1 - decay)
 
 
 def estimate_monthly_cost(mileage_tested, monthly_km, price_per_litre, engine_cc, launch_year, e20_compatible, brand=None):
@@ -130,11 +144,20 @@ with st.form("car_form"):
     with col1:
         engine_cc = st.number_input("Engine size (CC)", min_value=100, max_value=6000, value=default_cc, step=50)
         launch_year = st.number_input("Launch Year", min_value=1990, max_value=2026, value=default_year, step=1)
+        car_age_years = st.number_input("Car Age (years, as of today)", min_value=0, max_value=35,
+                                         value=max(2026 - default_year, 0), step=1,
+                                         help="How old your car currently is. Used to account for general wear-and-tear on mileage, separate from the E20 effect.")
 
     with col2:
         e20_compatible = st.selectbox("E20 Compatible?", VALID_LABELS,
                                        index=VALID_LABELS.index(default_compat) if default_compat in VALID_LABELS else 0)
-        mileage_tested = st.number_input("Tested mileage on regular petrol (km/L)", min_value=1.0, max_value=50.0, value=default_mileage, step=0.1)
+        knows_actual_mileage = st.checkbox("I know my car's actual current mileage", value=False)
+        if knows_actual_mileage:
+            mileage_tested = st.number_input("Your car's actual current mileage (km/L)", min_value=1.0, max_value=50.0, value=default_mileage, step=0.1)
+        else:
+            claimed_mileage = st.number_input("Claimed/showroom mileage (km/L)", min_value=1.0, max_value=50.0, value=default_mileage, step=0.1)
+            mileage_tested = apply_age_wear_adjustment(claimed_mileage, car_age_years)
+            st.caption(f"Estimated current mileage after {car_age_years} yrs of wear: **{mileage_tested:.2f} km/L** (heuristic, not ML-learned)")
 
     monthly_km = st.number_input("Your monthly driving distance (km)", min_value=1, max_value=10000, value=1200, step=50)
     price_per_litre = st.number_input("Current petrol price (Rs/litre)", min_value=1.0, max_value=300.0, value=96.5, step=0.5)
